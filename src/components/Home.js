@@ -16,12 +16,11 @@ export default function Home() {
                 <div className="scroll-text">
                     ⚡ Important Notice: CISMR Project is going to launch its official website.
                 </div>
-            </div>
+            </div><br/>
             <div className="container-fluid">
-                <div className="row gx-1 py-3">
+                <div className="row gx-1 py-3" style={{backgroundColor:"#afb8c2ff"}}>
                     <div className="col-12 col-lg-8 mb-3">
-                        <div id="carouselExampleCaptions"
-                            className="carousel slide" data-bs-pause="hover"
+                        <div id="carouselExampleCaptions" className="carousel slide" data-bs-pause="hover"
                             data-bs-interval="2000" data-bs-ride="carousel">
                             <div className="carousel-indicators">
                                 <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
@@ -102,9 +101,36 @@ export default function Home() {
                             </button>
                         </div>
                     </div>
-                </div>
-            </div>
 
+                    {/* adarsh */}
+
+                    <div class="col-md-4">
+                        <div class="event-ticker shadow-sm">
+                            <div class="ticker-header">
+                                <i class="fa fa-calendar"></i> Latest News / Notices
+                            </div>
+                            <div class="ticker-body">
+                                <ul class="ticker-list">
+                                    <li><a href='/events'>🧠 7th International Conference - MIND 2025 (Dec 12–14)</a></li><hr/>
+                                    <li>🔌 Smart Electronics (Dec 15–17)</li><hr/>
+                                    <li>🌐 Web Dev Summit 2026 (Jan 10–12)</li><hr/>
+                                    <li><a href='/events'>🧠 7th International Conference - MIND 2025 (Dec 12–14)</a></li><hr/>
+                                    <li>🔌 Smart Electronics (Dec 15–17)</li><hr/>
+                                    <li>🌐 Web Dev Summit 2026 (Jan 10–12)</li><hr/>
+                                    <li>🎓 NIT Surat Hackathon (Feb 5–6)</li><hr/>
+                                    <li>🧠 7th International Conference - MIND 2025 (Dec 12–14)</li><hr/>
+                                    <li>🔌 Symposium on Smart Electronics (Dec 15–17)</li><hr/>
+                                    <li>🌐 Web Dev Summit 2026 (Jan 10–12)</li><hr/>
+                                    <li>🎓 NIT Surat Hackathon (Feb 5–6)</li><hr/>
+                                </ul>
+                            </div>
+                            <a href="#" class="view-all">View all »</a>
+                        </div>
+                    </div>
+                    {/* adarsh */}
+                </div>
+                <div  className='row py-3 gx-1' style={{height:"100px" , marginTop:"10px", backgroundColor:"blue"}}></div>
+            </div>
         </>
     );
 }

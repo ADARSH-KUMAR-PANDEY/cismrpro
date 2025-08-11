@@ -24,13 +24,13 @@ export default function Nav2() {
 
   const navItems = [
     { label: 'Home', href: '/' },
-    { label: 'Team', href: 'team.js' },
-    { label: 'Projects', href: 'projects.js' },
-    { label: 'Publications', href: 'publications.js' },
-    { label: 'Awards', href: 'publications.js' },
+    { label: 'Team', href: '/team' },
+    { label: 'Projects', href: '/projects' },
+    { label: 'Publications', href: '/publications' },
+    { label: 'Awards', href: '/awards' },
     { label: 'Events', href:'/events'},
     { label: 'Gallary', href: '/gallary' },
-    { label: 'Contact Us', href: 'contacts.js' }
+    { label: 'Contact Us', href: '/contactus' }
   ];
 
   return (

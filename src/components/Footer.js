@@ -1,13 +1,16 @@
 import React from "react";
 import './footer.css'
+import Badge from "./badge";
 import { FaInstagram, FaYoutube, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 export default function Footer() {
     return (
         <>
-            <br />
-            <br />
-            <br />
+            <br/>
+            <div>
+            <Badge/>
+            </div>
+            <br/>
             <div className="container-fluid bg-dark text-light py-4" style={{ color: "white" }}>
                 <div className="row text-center text-md-start">
                     <div className="col-12 col-md-4 mb-3 mb-md-0">

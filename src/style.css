@@ -88,6 +88,7 @@ body {
 }
 
 .carousel-item img {
+    border-radius: 5px;
     max-height: 100%;
     max-width: 100%;
     height: auto;
@@ -195,3 +196,115 @@ li {
   }
 }
 
+
+
+
+
+/* adarsh */
+
+.event-ticker {
+  background: linear-gradient(to bottom right, #fdfdfd, #f0f4ff);
+  border-radius: 12px;
+  padding: 20px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'Segoe UI', sans-serif;
+  transition: box-shadow 0.3s ease;
+}
+
+.event-ticker:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+
+
+.ticker-header {
+  background-color: #002147;
+  color: #fff;
+  padding: 12px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-left: 5px solid #FFA500;
+  border-radius: 8px 8px 0 0;
+}
+
+.ticker-body {
+  overflow: hidden;
+  flex-grow: 1;
+  margin-top: 10px;
+  position: relative;
+  max-height: 700px; /* Adjust as needed */
+  overflow-y: auto;
+  padding-right: 8px;
+}
+.carousel-indicators {
+  display: none;
+}
+.ticker-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  animation: scroll-up 7s linear infinite;
+}
+
+.ticker-list li {
+  padding: 8px 0;
+  color: #0056b3;
+  font-size: 0.95rem;
+  transition: color 0.3s;
+}
+
+.ticker-list li:hover {
+  color: #003366;
+}
+
+.view-all {
+  text-align: right;
+  display: block;
+  margin-top: 10px;
+  color: #007BFF;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.view-all:hover {
+  text-decoration: underline;
+}
+
+@keyframes scroll-up {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-50%); } 
+}
+
+@media (max-width: 768px) {
+  .event-ticker {
+    height: auto;
+  }
+
+  .ticker-list {
+    animation: none;
+  }
+}
+
+.event-ticker {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 2px;
+  max-height: 500px; /* Shrinks the section */
+  overflow-y: auto;   /* Adds scroll if content exceeds */
+  font-size: 0.9rem;
+}
+
+.ticker-header {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
+
+.ticker-body {
+  max-height: 400px; /* Controls inner scroll area */
+  overflow-y: auto;
+}

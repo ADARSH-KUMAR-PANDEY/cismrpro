@@ -1,0 +1,42 @@
+#badges{
+    display: flex;
+    flex-wrap: wrap;
+    flex:1;
+    background-color: "yellow";
+    box-shadow: 2px gray;
+    height:fit-content;
+    width: fit-content;
+    border-radius: 15px;
+}
+
+
+.badge-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap; /* Keeps them in one line */
+  gap: 12px; /* Space between badges */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Align vertically */
+  padding: 5px;
+}
+#badgeimage {
+  width: 200px; /* Adjust size as needed */
+  height: 200px;
+  border-radius: 10%;
+  
+}
+
+
+#badges:hover {
+  transform: scale(1.1); /* Slight zoom effect */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Soft shadow */
+}
+
+.badge-container {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
