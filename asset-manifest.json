@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cismrpro/static/css/main.1501ff57.css",
+    "main.js": "/cismrpro/static/js/main.7587c6b1.js",
+    "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
+    "static/media/ai.png": "/cismrpro/static/media/ai.7822ca400f51c1e2aa9c.png",
+    "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
+    "static/media/hackathon.png": "/cismrpro/static/media/hackathon.72c9e620a3e337452619.png",
+    "static/media/hand.png": "/cismrpro/static/media/hand.cc99113acf9d54be899c.png",
+    "static/media/smc.png": "/cismrpro/static/media/smc.25619ce61fef7a051212.png",
+    "static/media/workshopbtech.png": "/cismrpro/static/media/workshopbtech.8756fc99b8407303754e.png",
+    "static/media/demoatconclave.png": "/cismrpro/static/media/demoatconclave.7ab2463164eb4f676432.png",
+    "static/media/completion.png": "/cismrpro/static/media/completion.d4ec7464bbe427220339.png",
+    "static/media/modelhand.png": "/cismrpro/static/media/modelhand.02cdfad871c769f78f72.png",
+    "static/media/datacollection.png": "/cismrpro/static/media/datacollection.6fdd40fb3fcab2a5cee2.png",
+    "static/media/certi.png": "/cismrpro/static/media/certi.18794a55944ed9facdd2.png",
+    "static/media/svnitlogo.png": "/cismrpro/static/media/svnitlogo.86c161caea58fde5becf.png",
+    "static/media/treadmill.png": "/cismrpro/static/media/treadmill.ed82c5fcbaa8e6ea27b9.png",
+    "static/media/3dprinter.png": "/cismrpro/static/media/3dprinter.7aaac68bc092450d42ab.png",
+    "static/media/cismrlogo.png": "/cismrpro/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
+    "index.html": "/cismrpro/index.html",
+    "main.1501ff57.css.map": "/cismrpro/static/css/main.1501ff57.css.map",
+    "main.7587c6b1.js.map": "/cismrpro/static/js/main.7587c6b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1501ff57.css",
+    "static/js/main.7587c6b1.js"
+  ]
+}
