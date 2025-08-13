@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.4d7972b2.css",
+    "main.css": "/cismrpro/static/css/main.a8c966e5.css",
     "main.js": "/cismrpro/static/js/main.d575e0f7.js",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
@@ -19,11 +19,11 @@
     "static/media/cismrlogo.png": "/cismrpro/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
     "static/media/cismrlogodr.png": "/cismrpro/static/media/cismrlogodr.8402c5c8a1d07ae5c6e3.png",
     "index.html": "/cismrpro/index.html",
-    "main.4d7972b2.css.map": "/cismrpro/static/css/main.4d7972b2.css.map",
+    "main.a8c966e5.css.map": "/cismrpro/static/css/main.a8c966e5.css.map",
     "main.d575e0f7.js.map": "/cismrpro/static/js/main.d575e0f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d7972b2.css",
+    "static/css/main.a8c966e5.css",
     "static/js/main.d575e0f7.js"
   ]
 }
