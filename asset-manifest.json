@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.8fa45ad4.css",
-    "main.js": "/cismrpro/static/js/main.78018e49.js",
+    "main.css": "/cismrpro/static/css/main.4c1647b0.css",
+    "main.js": "/cismrpro/static/js/main.2454c350.js",
+    "static/media/samplevideo.mp4": "/cismrpro/static/media/samplevideo.851b8fb11e44be745713.mp4",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
     "static/media/hackathon.png": "/cismrpro/static/media/hackathon.72c9e620a3e337452619.png",
@@ -9,6 +10,7 @@
     "static/media/smc.png": "/cismrpro/static/media/smc.25619ce61fef7a051212.png",
     "static/media/workshopbtech.png": "/cismrpro/static/media/workshopbtech.8756fc99b8407303754e.png",
     "static/media/demoatconclave.png": "/cismrpro/static/media/demoatconclave.7ab2463164eb4f676432.png",
+    "static/media/adarshsample.png": "/cismrpro/static/media/adarshsample.d8b830b3fef1e690a05b.png",
     "static/media/completion.png": "/cismrpro/static/media/completion.d4ec7464bbe427220339.png",
     "static/media/modelhand.png": "/cismrpro/static/media/modelhand.02cdfad871c769f78f72.png",
     "static/media/datacollection.png": "/cismrpro/static/media/datacollection.6fdd40fb3fcab2a5cee2.png",
@@ -19,11 +21,11 @@
     "static/media/cismrlogo.png": "/cismrpro/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
     "static/media/cismrlogodr.png": "/cismrpro/static/media/cismrlogodr.8402c5c8a1d07ae5c6e3.png",
     "index.html": "/cismrpro/index.html",
-    "main.8fa45ad4.css.map": "/cismrpro/static/css/main.8fa45ad4.css.map",
-    "main.78018e49.js.map": "/cismrpro/static/js/main.78018e49.js.map"
+    "main.4c1647b0.css.map": "/cismrpro/static/css/main.4c1647b0.css.map",
+    "main.2454c350.js.map": "/cismrpro/static/js/main.2454c350.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fa45ad4.css",
-    "static/js/main.78018e49.js"
+    "static/css/main.4c1647b0.css",
+    "static/js/main.2454c350.js"
   ]
 }
