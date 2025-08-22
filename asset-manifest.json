@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cismrpro/static/css/main.18a7cdba.css",
-    "main.js": "/cismrpro/static/js/main.a0a01406.js",
+    "main.js": "/cismrpro/static/js/main.f4678745.js",
     "static/media/samplevideo.mp4": "/cismrpro/static/media/samplevideo.851b8fb11e44be745713.mp4",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
@@ -18,18 +18,24 @@
     "static/media/svnitlogo.png": "/cismrpro/static/media/svnitlogo.86c161caea58fde5becf.png",
     "static/media/treadmill.png": "/cismrpro/static/media/treadmill.ed82c5fcbaa8e6ea27b9.png",
     "static/media/3dprinter.png": "/cismrpro/static/media/3dprinter.7aaac68bc092450d42ab.png",
+    "static/media/ajinkya.png": "/cismrpro/static/media/ajinkya.774930b62ddc220adbd1.png",
+    "static/media/parul.png": "/cismrpro/static/media/parul.dee4099557f2fbb47b59.png",
+    "static/media/vinay.png": "/cismrpro/static/media/vinay.04737da7d40ca4ab1f82.png",
+    "static/media/dimple.png": "/cismrpro/static/media/dimple.a6c19a4fd1e274ff3578.png",
     "static/media/cismrlogo.png": "/cismrpro/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
     "static/media/sirimg.png": "/cismrpro/static/media/sirimg.5b9ab1718c73c940a658.png",
+    "static/media/ravikant.png": "/cismrpro/static/media/ravikant.b407f2d4479a55163830.png",
     "static/media/cismrlogodr.png": "/cismrpro/static/media/cismrlogodr.8402c5c8a1d07ae5c6e3.png",
+    "static/media/narendra.png": "/cismrpro/static/media/narendra.dda30620a1f37d1982ff.png",
     "static/media/teamimg.jpg": "/cismrpro/static/media/teamimg.d823f5dcaed7a6c13dd5.jpg",
     "static/media/websitelogo.png": "/cismrpro/static/media/websitelogo.b2bf44c25b544e1fd082.png",
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
     "main.18a7cdba.css.map": "/cismrpro/static/css/main.18a7cdba.css.map",
-    "main.a0a01406.js.map": "/cismrpro/static/js/main.a0a01406.js.map"
+    "main.f4678745.js.map": "/cismrpro/static/js/main.f4678745.js.map"
   },
   "entrypoints": [
     "static/css/main.18a7cdba.css",
-    "static/js/main.a0a01406.js"
+    "static/js/main.f4678745.js"
   ]
 }
