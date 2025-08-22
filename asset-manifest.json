@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.18a7cdba.css",
-    "main.js": "/cismrpro/static/js/main.ac0de6be.js",
+    "main.css": "/cismrpro/static/css/main.b799ead5.css",
+    "main.js": "/cismrpro/static/js/main.52214d5a.js",
     "static/media/samplevideo.mp4": "/cismrpro/static/media/samplevideo.851b8fb11e44be745713.mp4",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
@@ -32,11 +32,11 @@
     "static/media/websitelogo.png": "/cismrpro/static/media/websitelogo.b2bf44c25b544e1fd082.png",
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
-    "main.18a7cdba.css.map": "/cismrpro/static/css/main.18a7cdba.css.map",
-    "main.ac0de6be.js.map": "/cismrpro/static/js/main.ac0de6be.js.map"
+    "main.b799ead5.css.map": "/cismrpro/static/css/main.b799ead5.css.map",
+    "main.52214d5a.js.map": "/cismrpro/static/js/main.52214d5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.18a7cdba.css",
-    "static/js/main.ac0de6be.js"
+    "static/css/main.b799ead5.css",
+    "static/js/main.52214d5a.js"
   ]
 }
