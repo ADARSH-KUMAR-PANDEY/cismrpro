@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cismrpro/static/css/main.6a38602c.css",
-    "main.js": "/cismrpro/static/js/main.fb08d895.js",
+    "main.js": "/cismrpro/static/js/main.002e4fde.js",
     "static/media/samplevideo.mp4": "/cismrpro/static/media/samplevideo.321bd41805dea2a8c6dc.mp4",
     "static/media/shivanidangal.jpg": "/cismrpro/static/media/shivanidangal.32d1c00be06b4ba287c7.jpg",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
@@ -11,6 +11,7 @@
     "static/media/smc.png": "/cismrpro/static/media/smc.25619ce61fef7a051212.png",
     "static/media/workshopbtech.png": "/cismrpro/static/media/workshopbtech.8756fc99b8407303754e.png",
     "static/media/demoatconclave.png": "/cismrpro/static/media/demoatconclave.7ab2463164eb4f676432.png",
+    "static/media/certificatesample.png": "/cismrpro/static/media/certificatesample.3a670159c64ab271732d.png",
     "static/media/adarshsample.png": "/cismrpro/static/media/adarshsample.d8b830b3fef1e690a05b.png",
     "static/media/completion.png": "/cismrpro/static/media/completion.d4ec7464bbe427220339.png",
     "static/media/modelhand.png": "/cismrpro/static/media/modelhand.02cdfad871c769f78f72.png",
@@ -23,6 +24,7 @@
     "static/media/3dprinter.png": "/cismrpro/static/media/3dprinter.7aaac68bc092450d42ab.png",
     "static/media/news9.jpg": "/cismrpro/static/media/news9.392d712d241def68245f.jpg",
     "static/media/dineshsir.png": "/cismrpro/static/media/dineshsir.45f9a9f42958f7d78b51.png",
+    "static/media/sttp1_tt.png": "/cismrpro/static/media/sttp1_tt.c082d3c5b90a26a46dff.png",
     "static/media/adarsh.jpg": "/cismrpro/static/media/adarsh.c3d32c649388b18b34d3.jpg",
     "static/media/news1.jpg": "/cismrpro/static/media/news1.cf4d9c1190037bad439b.jpg",
     "static/media/suyash.jpg": "/cismrpro/static/media/suyash.63020531d336483bfe39.jpg",
@@ -35,21 +37,31 @@
     "static/media/vinay.png": "/cismrpro/static/media/vinay.04737da7d40ca4ab1f82.png",
     "static/media/dimple.png": "/cismrpro/static/media/dimple.a6c19a4fd1e274ff3578.png",
     "static/media/tejal.png": "/cismrpro/static/media/tejal.485e3c66f81343ae3893.png",
+    "static/media/teamsttp.jpg": "/cismrpro/static/media/teamsttp.ee1ad1fb7023bd4805c6.jpg",
     "static/media/news4.jpg": "/cismrpro/static/media/news4.d2e5cc38344852f2c27f.jpg",
     "static/media/cismrlogo.png": "/cismrpro/static/media/cismrlogo.7f08184d3fd7cb0b1a71.png",
     "static/media/aditya.jpg": "/cismrpro/static/media/aditya.f32a5eb221d17b33892a.jpg",
+    "static/media/saraswatipuja.jpg": "/cismrpro/static/media/saraswatipuja.fdf969c453284057b72c.jpg",
+    "static/media/lab.jpg": "/cismrpro/static/media/lab.7665df77e31e0bfebd23.jpg",
     "static/media/sirimg.png": "/cismrpro/static/media/sirimg.5b9ab1718c73c940a658.png",
     "static/media/news11.jpg": "/cismrpro/static/media/news11.6aa6ece3f7db9d46b6f8.jpg",
+    "static/media/doubt.jpg": "/cismrpro/static/media/doubt.ac61d68b9d2d20af4352.jpg",
     "static/media/ravikant.png": "/cismrpro/static/media/ravikant.b407f2d4479a55163830.png",
     "static/media/news5.jpg": "/cismrpro/static/media/news5.2cc603402f00cef0aee4.jpg",
     "static/media/cismrlogodr.png": "/cismrpro/static/media/cismrlogodr.8402c5c8a1d07ae5c6e3.png",
     "static/media/narendra.png": "/cismrpro/static/media/narendra.dda30620a1f37d1982ff.png",
+    "static/media/hod.jpg": "/cismrpro/static/media/hod.1befed7206afbc1f17b4.jpg",
     "static/media/news7.jpg": "/cismrpro/static/media/news7.25e7a66c600aed444528.jpg",
     "static/media/shubham2.jpg": "/cismrpro/static/media/shubham2.b1f97d5adb3773ae33e8.jpg",
+    "static/media/zaverisession.jpg": "/cismrpro/static/media/zaverisession.0555e426aea046911367.jpg",
     "static/media/event1.jpg": "/cismrpro/static/media/event1.847365752cdce1c6a2dd.jpg",
+    "static/media/dranugraha.jpg": "/cismrpro/static/media/dranugraha.5b1d344c4e5548b2d2a8.jpg",
     "static/media/ajinkyasir.jpg": "/cismrpro/static/media/ajinkyasir.fd6315440153c07a5af2.jpg",
     "static/media/news6.jpg": "/cismrpro/static/media/news6.1c3a7d5a6fed2e7f92b5.jpg",
+    "static/media/certidist.jpg": "/cismrpro/static/media/certidist.88012cab85c0aa3ca144.jpg",
+    "static/media/cpsir.jpg": "/cismrpro/static/media/cpsir.85e14d862783ae4eb065.jpg",
     "static/media/abhishek.jpg": "/cismrpro/static/media/abhishek.afe1ef44eaed5d70708a.jpg",
+    "static/media/pruthvik.jpg": "/cismrpro/static/media/pruthvik.56f368a52ec22bbdcb11.jpg",
     "static/media/afrin.jpg": "/cismrpro/static/media/afrin.50ab8f859bdc83ac252a.jpg",
     "static/media/teamimg.jpg": "/cismrpro/static/media/teamimg.d823f5dcaed7a6c13dd5.jpg",
     "static/media/salman2.jpg": "/cismrpro/static/media/salman2.d1ff048aea6263d5847c.jpg",
@@ -59,10 +71,10 @@
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
     "main.6a38602c.css.map": "/cismrpro/static/css/main.6a38602c.css.map",
-    "main.fb08d895.js.map": "/cismrpro/static/js/main.fb08d895.js.map"
+    "main.002e4fde.js.map": "/cismrpro/static/js/main.002e4fde.js.map"
   },
   "entrypoints": [
     "static/css/main.6a38602c.css",
-    "static/js/main.fb08d895.js"
+    "static/js/main.002e4fde.js"
   ]
 }
