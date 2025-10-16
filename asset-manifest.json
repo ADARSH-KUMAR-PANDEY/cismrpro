@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.6a38602c.css",
-    "main.js": "/cismrpro/static/js/main.834e2ed1.js",
+    "main.css": "/cismrpro/static/css/main.2fd68400.css",
+    "main.js": "/cismrpro/static/js/main.6b2f0312.js",
     "static/media/samplevideo.mp4": "/cismrpro/static/media/samplevideo.321bd41805dea2a8c6dc.mp4",
     "static/media/shivanidangal.jpg": "/cismrpro/static/media/shivanidangal.32d1c00be06b4ba287c7.jpg",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
     "static/media/hackathon.png": "/cismrpro/static/media/hackathon.72c9e620a3e337452619.png",
-    "static/media/hand.png": "/cismrpro/static/media/hand.cc99113acf9d54be899c.png",
+    "static/media/hand.png": "/cismrpro/static/media/hand.895f2a5488ffadb3853d.png",
     "static/media/smc.png": "/cismrpro/static/media/smc.25619ce61fef7a051212.png",
     "static/media/workshopbtech.png": "/cismrpro/static/media/workshopbtech.8756fc99b8407303754e.png",
+    "static/media/adarshsample.png": "/cismrpro/static/media/adarshsample.ece5339e0546e7996ec9.png",
     "static/media/demoatconclave.png": "/cismrpro/static/media/demoatconclave.7ab2463164eb4f676432.png",
     "static/media/certificatesample.png": "/cismrpro/static/media/certificatesample.3a670159c64ab271732d.png",
     "static/media/samplevideo2.mp4": "/cismrpro/static/media/samplevideo2.ee67428ff630e74b2adc.mp4",
-    "static/media/adarshsample.png": "/cismrpro/static/media/adarshsample.d8b830b3fef1e690a05b.png",
     "static/media/completion.png": "/cismrpro/static/media/completion.d4ec7464bbe427220339.png",
     "static/media/modelhand.png": "/cismrpro/static/media/modelhand.02cdfad871c769f78f72.png",
     "static/media/yashanki.jpg": "/cismrpro/static/media/yashanki.a85e66e10566f7d8ba9e.jpg",
@@ -78,11 +78,11 @@
     "static/media/saakshi.png": "/cismrpro/static/media/saakshi.8c99e9ab0a5d68b2499c.png",
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
-    "main.6a38602c.css.map": "/cismrpro/static/css/main.6a38602c.css.map",
-    "main.834e2ed1.js.map": "/cismrpro/static/js/main.834e2ed1.js.map"
+    "main.2fd68400.css.map": "/cismrpro/static/css/main.2fd68400.css.map",
+    "main.6b2f0312.js.map": "/cismrpro/static/js/main.6b2f0312.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a38602c.css",
-    "static/js/main.834e2ed1.js"
+    "static/css/main.2fd68400.css",
+    "static/js/main.6b2f0312.js"
   ]
 }
