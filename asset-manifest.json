@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.2fd68400.css",
-    "main.js": "/cismrpro/static/js/main.6b2f0312.js",
-    "static/media/samplevideo.mp4": "/cismrpro/static/media/samplevideo.321bd41805dea2a8c6dc.mp4",
+    "main.css": "/cismrpro/static/css/main.755b03c3.css",
+    "main.js": "/cismrpro/static/js/main.7d1664f9.js",
     "static/media/shivanidangal.jpg": "/cismrpro/static/media/shivanidangal.32d1c00be06b4ba287c7.jpg",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
@@ -13,7 +12,6 @@
     "static/media/adarshsample.png": "/cismrpro/static/media/adarshsample.ece5339e0546e7996ec9.png",
     "static/media/demoatconclave.png": "/cismrpro/static/media/demoatconclave.7ab2463164eb4f676432.png",
     "static/media/certificatesample.png": "/cismrpro/static/media/certificatesample.3a670159c64ab271732d.png",
-    "static/media/samplevideo2.mp4": "/cismrpro/static/media/samplevideo2.ee67428ff630e74b2adc.mp4",
     "static/media/completion.png": "/cismrpro/static/media/completion.d4ec7464bbe427220339.png",
     "static/media/modelhand.png": "/cismrpro/static/media/modelhand.02cdfad871c769f78f72.png",
     "static/media/yashanki.jpg": "/cismrpro/static/media/yashanki.a85e66e10566f7d8ba9e.jpg",
@@ -28,6 +26,7 @@
     "static/media/sttp1_tt.png": "/cismrpro/static/media/sttp1_tt.c082d3c5b90a26a46dff.png",
     "static/media/adarsh.jpg": "/cismrpro/static/media/adarsh.c3d32c649388b18b34d3.jpg",
     "static/media/news1.jpg": "/cismrpro/static/media/news1.cf4d9c1190037bad439b.jpg",
+    "static/media/amlac.png": "/cismrpro/static/media/amlac.8eb3280fe6b3d180bc96.png",
     "static/media/suyash.jpg": "/cismrpro/static/media/suyash.63020531d336483bfe39.jpg",
     "static/media/parul.png": "/cismrpro/static/media/parul.dee4099557f2fbb47b59.png",
     "static/media/news3.jpg": "/cismrpro/static/media/news3.99b144c4980c777f6118.jpg",
@@ -48,7 +47,6 @@
     "static/media/saraswatipuja.jpg": "/cismrpro/static/media/saraswatipuja.fdf969c453284057b72c.jpg",
     "static/media/lab.jpg": "/cismrpro/static/media/lab.7665df77e31e0bfebd23.jpg",
     "static/media/sirimg.png": "/cismrpro/static/media/sirimg.5b9ab1718c73c940a658.png",
-    "static/media/news11.jpg": "/cismrpro/static/media/news11.6aa6ece3f7db9d46b6f8.jpg",
     "static/media/doubt.jpg": "/cismrpro/static/media/doubt.ac61d68b9d2d20af4352.jpg",
     "static/media/ravikant.png": "/cismrpro/static/media/ravikant.b407f2d4479a55163830.png",
     "static/media/news5.jpg": "/cismrpro/static/media/news5.2cc603402f00cef0aee4.jpg",
@@ -61,7 +59,6 @@
     "static/media/news7.jpg": "/cismrpro/static/media/news7.25e7a66c600aed444528.jpg",
     "static/media/shubham2.jpg": "/cismrpro/static/media/shubham2.b1f97d5adb3773ae33e8.jpg",
     "static/media/zaverisession.jpg": "/cismrpro/static/media/zaverisession.0555e426aea046911367.jpg",
-    "static/media/event1.jpg": "/cismrpro/static/media/event1.847365752cdce1c6a2dd.jpg",
     "static/media/dranugraha.jpg": "/cismrpro/static/media/dranugraha.5b1d344c4e5548b2d2a8.jpg",
     "static/media/ajinkyasir.jpg": "/cismrpro/static/media/ajinkyasir.fd6315440153c07a5af2.jpg",
     "static/media/news6.jpg": "/cismrpro/static/media/news6.1c3a7d5a6fed2e7f92b5.jpg",
@@ -71,6 +68,7 @@
     "static/media/news9.jpg": "/cismrpro/static/media/news9.f6cc722b0849eb4ad61d.jpg",
     "static/media/navin.jpg": "/cismrpro/static/media/navin.56f368a52ec22bbdcb11.jpg",
     "static/media/afrin.jpg": "/cismrpro/static/media/afrin.50ab8f859bdc83ac252a.jpg",
+    "static/media/news11.jpg": "/cismrpro/static/media/news11.189f679ff7e037057f92.jpg",
     "static/media/teamimg.jpg": "/cismrpro/static/media/teamimg.d823f5dcaed7a6c13dd5.jpg",
     "static/media/salman2.jpg": "/cismrpro/static/media/salman2.d1ff048aea6263d5847c.jpg",
     "static/media/websitelogo.png": "/cismrpro/static/media/websitelogo.b2bf44c25b544e1fd082.png",
@@ -78,11 +76,11 @@
     "static/media/saakshi.png": "/cismrpro/static/media/saakshi.8c99e9ab0a5d68b2499c.png",
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
-    "main.2fd68400.css.map": "/cismrpro/static/css/main.2fd68400.css.map",
-    "main.6b2f0312.js.map": "/cismrpro/static/js/main.6b2f0312.js.map"
+    "main.755b03c3.css.map": "/cismrpro/static/css/main.755b03c3.css.map",
+    "main.7d1664f9.js.map": "/cismrpro/static/js/main.7d1664f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fd68400.css",
-    "static/js/main.6b2f0312.js"
+    "static/css/main.755b03c3.css",
+    "static/js/main.7d1664f9.js"
   ]
 }
