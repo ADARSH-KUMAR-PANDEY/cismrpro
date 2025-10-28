@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.2f6af351.css",
-    "main.js": "/cismrpro/static/js/main.a3df445c.js",
+    "main.css": "/cismrpro/static/css/main.1a83b6be.css",
+    "main.js": "/cismrpro/static/js/main.4e2ddf9f.js",
     "static/media/shivanidangal.jpg": "/cismrpro/static/media/shivanidangal.32d1c00be06b4ba287c7.jpg",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
     "static/media/projectgrp.png": "/cismrpro/static/media/projectgrp.18e7237f67976a1a0b2b.png",
@@ -73,16 +73,17 @@
     "static/media/teamimg.jpg": "/cismrpro/static/media/teamimg.d823f5dcaed7a6c13dd5.jpg",
     "static/media/rishi.jpg": "/cismrpro/static/media/rishi.2450e2277aec0fa33844.jpg",
     "static/media/websitelogo.png": "/cismrpro/static/media/websitelogo.b2bf44c25b544e1fd082.png",
+    "static/media/raees.jpg": "/cismrpro/static/media/raees.4408697855def9517609.jpg",
     "static/media/salman2.jpg": "/cismrpro/static/media/salman2.f54f955588d31ddc8963.jpg",
     "static/media/advitiya.jpg": "/cismrpro/static/media/advitiya.61f4f1f5c1ed7db1661c.jpg",
     "static/media/saakshi.png": "/cismrpro/static/media/saakshi.8c99e9ab0a5d68b2499c.png",
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
-    "main.2f6af351.css.map": "/cismrpro/static/css/main.2f6af351.css.map",
-    "main.a3df445c.js.map": "/cismrpro/static/js/main.a3df445c.js.map"
+    "main.1a83b6be.css.map": "/cismrpro/static/css/main.1a83b6be.css.map",
+    "main.4e2ddf9f.js.map": "/cismrpro/static/js/main.4e2ddf9f.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6af351.css",
-    "static/js/main.a3df445c.js"
+    "static/css/main.1a83b6be.css",
+    "static/js/main.4e2ddf9f.js"
   ]
 }
