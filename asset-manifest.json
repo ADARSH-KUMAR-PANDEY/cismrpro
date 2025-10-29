@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cismrpro/static/css/main.1ac15d6b.css",
+    "main.css": "/cismrpro/static/css/main.e4c31402.css",
     "main.js": "/cismrpro/static/js/main.04363dac.js",
     "static/media/shivanidangal.jpg": "/cismrpro/static/media/shivanidangal.32d1c00be06b4ba287c7.jpg",
     "static/media/sttp.png": "/cismrpro/static/media/sttp.cd998b77e32012f97835.png",
@@ -81,11 +81,11 @@
     "static/media/saakshi.png": "/cismrpro/static/media/saakshi.8c99e9ab0a5d68b2499c.png",
     "static/media/linkedin-logo-free-download-free-png.webp": "/cismrpro/static/media/linkedin-logo-free-download-free-png.c513eaac702987d974da.webp",
     "index.html": "/cismrpro/index.html",
-    "main.1ac15d6b.css.map": "/cismrpro/static/css/main.1ac15d6b.css.map",
+    "main.e4c31402.css.map": "/cismrpro/static/css/main.e4c31402.css.map",
     "main.04363dac.js.map": "/cismrpro/static/js/main.04363dac.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ac15d6b.css",
+    "static/css/main.e4c31402.css",
     "static/js/main.04363dac.js"
   ]
 }
